@@ -102,7 +102,7 @@ int main()
     return 0;
 }
 
-[Link](url) and ![Image](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3855262064,1896479038&fm=26&gp=0.jpg)
+[Link](url) and ![Image](url=https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3855262064,1896479038&fm=26&gp=0.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
