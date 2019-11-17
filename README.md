@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## Hello World!
 
 
 ### Markdown
@@ -101,16 +100,4 @@ int main()
     }
     return 0;
 }
-
-[Link](url) and ![Image](url=https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3855262064,1896479038&fm=26&gp=0.jpg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Theme
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cyuanshuo/Cyuanshuo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###
