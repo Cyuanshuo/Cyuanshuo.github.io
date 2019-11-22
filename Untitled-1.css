@@ -1,0 +1,11 @@
+#id1{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image:url("photo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#id2{
+    float: middle;
+}
