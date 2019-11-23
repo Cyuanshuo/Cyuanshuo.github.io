@@ -1,0 +1,62 @@
+#d1{
+background-image:url('source/bgground.jpg');
+background-repeat: no-repeat;
+background-size: 100% 100%; 
+height: 50vw;
+width: 100vw;
+}
+.d2{
+    border-top-left-radius: 12%;
+    border-top-right-radius: 12%;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+    opacity: 0.9;
+    margin: 1px;
+    background-color:skyblue;
+    height:35px;
+    width: 100px; 
+}
+.d3:hover .plat{
+    border-top-left-radius: 6%;
+    border-top-right-radius: 6%;
+    border-bottom-left-radius: 6%;
+    border-bottom-right-radius: 6%;
+    padding: 15px;
+    background-color:skyblue;
+    opacity: 0.4;
+    height:220px;
+    width: 71px;
+    position: relative;
+    clear: both;
+    display: block;
+  
+}
+
+.plat{
+    float: top;
+    display: none;
+    position: relative;
+    
+}
+
+a{
+    text-decoration:none;
+}
+
+li{
+    list-style-type: none;
+}
+
+p{
+    font-family: cursive;
+    font-size: 20px;
+    float: left;
+    margin: 100px;
+    
+}
+
+div{
+
+    text-align:center;     
+    top: 50%; left: 50%;
+}
